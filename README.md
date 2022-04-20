@@ -2,4 +2,6 @@
 
 Using Machine Learning to predict car price.
 
-<img src="https://github.com/ACExpo/Apply_AI_Car_Price/blob/main/fake%20car.png" width=200><br>
+Our test drive:
+
+<img src="https://github.com/ACExpo/Apply_AI_Car_Price/blob/main/final%20AI.jpg" width=500><br>
